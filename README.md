@@ -1,5 +1,7 @@
 # Quiz
 
+Build a Quiz with HTML, CSS, and JavaScript
+
 User story 1: Design a Quiz page that keeps track of scores.
 
 User story 2: Create an Array of objects named questions.
